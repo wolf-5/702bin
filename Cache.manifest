@@ -1,6 +1,6 @@
 CACHE MANIFEST 
+# v2.5.5 Self-Host 
 
-CACHE: 
 app2usb.bin
 ar100.bin
 ar127.bin
@@ -13,10 +13,7 @@ exploit.js
 fan.bin
 frontend.js
 ftp.bin
-goldhen.bin
-goldhen1.bin
 goldhen2.bin
-hen213b.bin
 historyblocker.bin
 index-1.html
 index.html
@@ -41,6 +38,3 @@ todex.bin
 Toolbox.bin
 utils.js
 webrte.bin
-
-NETWORK: 
-* 
